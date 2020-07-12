@@ -4,7 +4,7 @@ class Changes < Formula
   head "https://github.com/SwiftBuildTools/Changes.git"
   version "0.1.0"
   url "https://github.com/SwiftBuildTools/Changes/releases/download/v#{version}/changes-swift-5-2-macOS.tar.gz"
-  sha256 "a9132b46a1a55b1153c1b9c189d8772f4c2b90a1ea3ffa01e0208ad1ce272d7a"
+  sha256 "9d7f78eff51d4c60256ebb007e22bf2afa8c27b7a528349aebe82e3e8b5e0afa"
 
   def install
     bin.install "changes"
